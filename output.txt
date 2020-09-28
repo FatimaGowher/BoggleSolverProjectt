@@ -1,0 +1,50 @@
+Size is 0
+Added call
+Now the size is 1
+Added cat
+Now the size is 2
+Added cater
+Now the size is 3
+Added cake
+Now the size is 4
+Added cope
+Now the size is 5
+Added bat
+Now the size is 6
+Added bake
+Now the size is 7
+Search call: Found
+Search cat: Found
+Search cater: Found
+Search cake: Found
+Search cope: Found
+Search bat: Found
+Search bake: Found
+Search called: Not found
+Search prefix 'c': Yes
+Search prefix 'b': Yes
+Search prefix 'ca': Yes
+Search prefix 'ba': Yes
+Search prefix 'call': Yes
+Search prefix 'called': No
+Printing words under prefix 'c':
+    cake
+    call
+    cat
+    cater
+    cope
+Printing words under prefix 'b':
+    bake
+    bat
+Printing words under prefix 'ca':
+    cake
+    call
+    cat
+    cater
+Printing words under prefix 'ba':
+    bake
+    bat
+Printing words under prefix 'call':
+    call
+Printing words under prefix 'called':
+Size is 7
